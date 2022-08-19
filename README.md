@@ -18,7 +18,7 @@ npx vlach
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)
 
@@ -26,7 +26,7 @@ npx vlach
 
 > 🏆 60 Contributions in the Year 2022
  > 
-> 📦 691 Bytes Used in GitHub's Storage 
+> 📦 692 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,16 +51,15 @@ npx vlach
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Dart                     3 hrs 38 mins       ██████████████████░░░░░░░   75.33% 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.56% 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87% 
-Groovy                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
+Dart                     3 hrs 38 mins       ████████████████████░░░░░   82.38% 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13% 
+Groovy                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
 
 🔥 Editors: 
-Android Studio           4 hrs 24 mins       ██████████████████████░░░   91.27% 
-Browser                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.56% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+Android Studio           4 hrs 24 mins       █████████████████████████   99.81% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 ```
 
@@ -77,7 +76,7 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 18/08/2022 01:06:37 UTC
+ Last Updated on 19/08/2022 01:04:30 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
