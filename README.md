@@ -16,9 +16,9 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)
 
@@ -26,7 +26,7 @@ npx vlach
 
 > 🏆 60 Contributions in the Year 2022
  > 
-> 📦 692 Bytes Used in GitHub's Storage 
+> 📦 694 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,15 +51,15 @@ npx vlach
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Dart                     3 hrs 38 mins       ████████████████████░░░░░   82.38% 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13% 
-Groovy                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
+Dart                     4 hrs 38 mins       ██████████████████████░░░   90.9% 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.07% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
+Groovy                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
 
 🔥 Editors: 
-Android Studio           4 hrs 24 mins       █████████████████████████   99.81% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+Android Studio           5 hrs 6 mins        █████████████████████████   99.92% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 ```
 
@@ -76,7 +76,7 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 19/08/2022 01:04:30 UTC
+ Last Updated on 20/08/2022 00:59:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
