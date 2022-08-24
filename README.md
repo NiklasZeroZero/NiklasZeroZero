@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,7 @@ npx vlach
 
 > 🏆 60 Contributions in the Year 2022
  > 
-> 📦 698 Bytes Used in GitHub's Storage 
+> 📦 699 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,6 +34,34 @@ npx vlach
  > 
 > 🔑 5 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+🌆 Daytime    38 commits     █████████░░░░░░░░░░░░░░░░   36.54% 
+🌃 Evening    23 commits     █████░░░░░░░░░░░░░░░░░░░░   22.12% 
+🌙 Night      27 commits     ██████░░░░░░░░░░░░░░░░░░░   25.96%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Dart                     8 hrs 17 mins       ███████████████████████░░   94.65% 
+XML                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+
+🔥 Editors: 
+Android Studio           8 hrs 46 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -47,7 +75,7 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 23/08/2022 01:11:21 UTC
+ Last Updated on 24/08/2022 01:04:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
