@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,7 @@ npx vlach
 
 > 🏆 60 Contributions in the Year 2022
  > 
-> 📦 703 Bytes Used in GitHub's Storage 
+> 📦 704 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,15 +51,15 @@ npx vlach
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Dart                     6 hrs 30 mins       ███████████░░░░░░░░░░░░░░   46.76% 
-JavaScript               3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.73% 
-TypeScript               2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-SCSS                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.3% 
-HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
+JavaScript               3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   42.93% 
+TypeScript               2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.55% 
+SCSS                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53% 
+HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+XML                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
 
 🔥 Editors: 
-Android Studio           6 hrs 58 mins       ████████████░░░░░░░░░░░░░   50.13% 
-VS Code                  6 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.87%
+VS Code                  7 hrs 20 mins       ████████████████████████░   96.64% 
+Android Studio           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36%
 
 ```
 
@@ -76,7 +76,7 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 27/08/2022 01:00:09 UTC
+ Last Updated on 28/08/2022 01:06:34 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
