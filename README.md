@@ -26,7 +26,7 @@ npx vlach
 
 > 🏆 60 Contributions in the Year 2022
  > 
-> 📦 728 Bytes Used in GitHub's Storage 
+> 📦 729 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,6 +34,30 @@ npx vlach
  > 
 > 🔑 5 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    16 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
+🌆 Daytime    38 commits     █████████░░░░░░░░░░░░░░░░   36.89% 
+🌃 Evening    22 commits     █████░░░░░░░░░░░░░░░░░░░░   21.36% 
+🌙 Night      27 commits     ██████░░░░░░░░░░░░░░░░░░░   26.21%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Dart                     2 mins              █████████████████████████   100.0%
+
+🔥 Editors: 
+Android Studio           2 mins              █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -47,7 +71,7 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/09/2022 01:12:52 UTC
+ Last Updated on 16/09/2022 01:12:57 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
