@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,7 @@ npx vlach
 
 > 🏆 61 Contributions in the Year 2022
  > 
-> 📦 727 Bytes Used in GitHub's Storage 
+> 📦 728 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,12 +51,13 @@ npx vlach
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               46 mins             ████████████░░░░░░░░░░░░░   49.25% 
-CSS                      30 mins             ████████░░░░░░░░░░░░░░░░░   33.01% 
-HTML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73%
+TypeScript               1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   37.78% 
+HTML                     1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   37.6% 
+SCSS                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
+CSS                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.15%
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.0%
+VS Code                  4 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
@@ -73,7 +74,7 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 17/10/2022 01:23:33 UTC
+ Last Updated on 18/10/2022 01:17:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
