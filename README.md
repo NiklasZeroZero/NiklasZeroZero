@@ -26,7 +26,7 @@ npx vlach
 
 > 🏆 62 Contributions in the Year 2022
  > 
-> 📦 750 Bytes Used in GitHub's Storage 
+> 📦 751 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,14 +51,10 @@ npx vlach
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               1 hr 32 mins        ██████████████░░░░░░░░░░░   56.78% 
-CSS                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
-JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
-HTML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
+JSON                     2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.0%
+VS Code                  2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +71,7 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 03/11/2022 01:05:54 UTC
+ Last Updated on 04/11/2022 01:08:23 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
