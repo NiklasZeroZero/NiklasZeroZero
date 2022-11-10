@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -26,7 +26,7 @@ npx vlach
 
 > 🏆 62 Contributions in the Year 2022
  > 
-> 📦 758 Bytes Used in GitHub's Storage 
+> 📦 759 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,34 +34,6 @@ npx vlach
  > 
 > 🔑 5 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-🌆 Daytime    29 commits     █████████░░░░░░░░░░░░░░░░   37.18% 
-🌃 Evening    18 commits     █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-🌙 Night      21 commits     ██████░░░░░░░░░░░░░░░░░░░   26.92%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Svelte                   17 mins             █████████████░░░░░░░░░░░░   53.73% 
-JavaScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-CSS                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
-TypeScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
-
-🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -75,7 +47,7 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 01:03:40 UTC
+ Last Updated on 10/11/2022 01:03:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
