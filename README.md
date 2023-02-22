@@ -26,7 +26,7 @@ npx vlach
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 948 Bytes Used in GitHub's Storage 
+> 📦 949 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,20 +58,20 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Java                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Svelte                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Svelte                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 
 ```
 
 
 
- Last Updated on 21/02/2023 00:55:10 UTC
+ Last Updated on 22/02/2023 00:51:19 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
