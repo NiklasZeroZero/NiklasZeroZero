@@ -18,13 +18,13 @@ npx vlach
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 930 Bytes Used in GitHub's Storage 
+> 📦 931 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -50,10 +50,11 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        0 secs              ██████████████░░░░░░░░░░░   54.93 % 
+C++                      0 secs              ███████████░░░░░░░░░░░░░░   45.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,7 +70,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2023 00:50:20 UTC
+ Last Updated on 31/03/2023 00:50:06 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
