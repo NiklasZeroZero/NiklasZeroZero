@@ -50,11 +50,10 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-HTML                     40 mins             ███████████████████░░░░░░   75.88 % 
-CSS                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,7 +69,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2023 00:47:02 UTC
+ Last Updated on 12/04/2023 00:46:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
