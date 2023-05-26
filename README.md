@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -24,7 +24,7 @@ npx vlach
 
 **🐱 My GitHub Data** 
 
-> 📦 944 Bytes Used in GitHub's Storage 
+> 📦 945 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -50,14 +50,14 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C++                      5 hrs 43 mins       ███████████████░░░░░░░░░░   61.22 % 
-C                        3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
-GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+C++                      5 hrs 49 mins       ███████████████░░░░░░░░░░   61.60 % 
+C                        3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.50 % 
+GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Rider                    9 hrs 21 mins       █████████████████████████   100.00 % 
+Rider                    9 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +73,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2023 00:47:38 UTC
+ Last Updated on 26/05/2023 00:47:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
