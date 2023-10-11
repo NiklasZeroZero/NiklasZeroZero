@@ -50,13 +50,10 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C++                      16 mins             ████████████████████░░░░░   81.80 % 
-C                        3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,7 +69,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2023 00:40:41 UTC
+ Last Updated on 11/10/2023 00:40:42 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
