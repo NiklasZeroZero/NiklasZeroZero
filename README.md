@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,11 +50,14 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               1 hr                ████████████████████░░░░░   78.22 % 
-JSON                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+TypeScript               1 hr 1 min          █████████████░░░░░░░░░░░░   53.73 % 
+SCSS                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+JSON                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 17 mins        █████████████████████████   100.00 % 
+WebStorm                 1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -70,7 +73,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2023 00:42:40 UTC
+ Last Updated on 23/12/2023 00:41:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
