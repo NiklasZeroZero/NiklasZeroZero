@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,7 @@ npx vlach
 
 > 📦 1.1 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,14 +50,14 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               40 mins             ██████████████████░░░░░░░   73.83 % 
-HTML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TypeScript               1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   39.81 % 
+JavaScript               37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+CSS                      36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+HTML                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+TSConfig                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-WebStorm                 54 mins             █████████████████████████   100.00 % 
+WebStorm                 3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -73,7 +73,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 00:46:41 UTC
+ Last Updated on 01/01/2024 00:48:19 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
