@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,8 +25,6 @@ npx vlach
 **🐱 My GitHub Data** 
 
 > 📦 50.3 kB Used in GitHub's Storage 
- > 
-> 🏆 25 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,12 +48,15 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-mcfunction               54 mins             ██████████████████████░░░   89.06 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Svelte                   18 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+HTML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+YAML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+CSS                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
+WebStorm                 1 hr 4 mins         █████████████████████████   99.96 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -71,7 +72,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2024 00:44:00 UTC
+ Last Updated on 15/05/2024 00:44:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
