@@ -50,13 +50,10 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       3 hrs 31 mins       █████████████████████████   99.06 % 
-Csproj                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-TSCN                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           3 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Svelte** 
@@ -72,7 +69,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2024 00:49:35 UTC
+ Last Updated on 27/05/2024 00:46:06 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
