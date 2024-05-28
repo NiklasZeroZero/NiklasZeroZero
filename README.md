@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,10 +50,12 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+mcfunction               38 mins             ███████████████░░░░░░░░░░   61.97 % 
+JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -69,7 +71,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2024 00:46:06 UTC
+ Last Updated on 28/05/2024 00:45:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
