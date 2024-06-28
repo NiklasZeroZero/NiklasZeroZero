@@ -26,6 +26,8 @@ npx vlach
 
 > 📦 50.3 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -48,12 +50,12 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       9 hrs 16 mins       █████████████████████████   99.04 % 
-Csproj                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C#                       5 hrs 42 mins       █████████████████████████   99.81 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Jetbrainsrider           9 hrs 21 mins       █████████████████████████   100.00 % 
+Jetbrainsrider           5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -69,7 +71,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2024 00:47:38 UTC
+ Last Updated on 28/06/2024 00:47:29 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
