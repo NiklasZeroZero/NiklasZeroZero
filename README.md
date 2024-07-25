@@ -16,8 +16,6 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94.8%20thousand%20lines%20of%20code-blue)
@@ -26,36 +24,12 @@ npx vlach
 
 > 📦 50.3 kB Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-🌆 Daytime                33 commits          ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-🌃 Evening                56 commits          ████████████░░░░░░░░░░░░░   47.46 % 
-🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-YAML                     1 hr 29 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Svelte** 
 
 ```text
@@ -69,7 +43,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2024 00:50:37 UTC
+ Last Updated on 25/07/2024 00:49:34 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
