@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,8 +25,6 @@ npx vlach
 **🐱 My GitHub Data** 
 
 > 📦 49.9 kB Used in GitHub's Storage 
- > 
-> 🏆 75 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,15 +48,14 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       19 hrs 6 mins       ████████████████████████░   94.78 % 
-XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Csproj                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+C#                       18 hrs 46 mins      ██████████████████████░░░   87.44 % 
+Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Csproj                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Jetbrainsrider           20 hrs 7 mins       █████████████████████████   99.84 % 
-WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Jetbrainsrider           21 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -74,7 +71,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2024 00:52:33 UTC
+ Last Updated on 29/08/2024 00:52:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
