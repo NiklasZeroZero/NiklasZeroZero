@@ -16,8 +16,6 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2024%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-124.3%20thousand%20lines%20of%20code-blue)
@@ -26,40 +24,14 @@ npx vlach
 
 > 📦 49.9 kB Used in GitHub's Storage 
  > 
+> 🏆 88 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-🌆 Daytime                63 commits          █████████░░░░░░░░░░░░░░░░   35.59 % 
-🌃 Evening                87 commits          ████████████░░░░░░░░░░░░░   49.15 % 
-🌙 Night                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-CSS                      3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.80 % 
-HTML                     3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.63 % 
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-TOML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-
-🔥 Editors: 
-WebStorm                 8 hrs 49 mins       ███████████████████████░░   93.99 % 
-VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Jetbrainsrider           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -73,7 +45,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2024 00:57:53 UTC
+ Last Updated on 09/09/2024 00:55:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
