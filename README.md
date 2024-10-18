@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,10 +50,15 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       3 hrs 24 mins       ██████████████████████░░░   89.64 % 
+TSCN                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Jetbrainsrider           3 hrs 47 mins       █████████████████████████   99.32 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 **I Mostly Code in C#** 
@@ -69,7 +74,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2024 00:56:22 UTC
+ Last Updated on 18/10/2024 00:56:39 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
