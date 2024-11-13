@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,11 +50,15 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       2 hrs 16 mins       █████████████████████████   100.00 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Svelte                   1 hr 3 mins         ███████████░░░░░░░░░░░░░░   44.91 % 
+C#                       35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+TypeScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+.env file                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-Jetbrainsrider           2 hrs 16 mins       █████████████████████████   100.00 % 
+WebStorm                 1 hr 45 mins        ███████████████████░░░░░░   74.98 % 
+Jetbrainsrider           35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -70,7 +74,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2024 00:55:15 UTC
+ Last Updated on 13/11/2024 00:56:27 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
