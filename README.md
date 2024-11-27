@@ -50,14 +50,10 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JSON                     22 mins             ███████████████████████░░   93.88 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Svelte** 
@@ -73,7 +69,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2024 01:00:06 UTC
+ Last Updated on 27/11/2024 01:00:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
