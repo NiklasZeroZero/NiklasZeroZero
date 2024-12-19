@@ -16,7 +16,7 @@ npx vlach
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-835%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-835%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,14 +50,10 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               27 mins             ██████████████████░░░░░░░   71.97 % 
-Svelte                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+YAML                     3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-WebStorm                 38 mins             █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -73,7 +69,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2024 00:59:30 UTC
+ Last Updated on 19/12/2024 01:00:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
