@@ -26,6 +26,8 @@ npx vlach
 
 > 📦 50.0 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -48,14 +50,11 @@ npx vlach
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       █████████████░░░░░░░░░░░░   53.89 % 
-Svelte                   1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   39.58 % 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+TypeScript               17 mins             ████████████████████████░   96.13 % 
+Svelte                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 14 mins       █████████████████████████   100.00 % 
+WebStorm                 17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -71,7 +70,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2025 00:56:01 UTC
+ Last Updated on 25/01/2025 00:52:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
